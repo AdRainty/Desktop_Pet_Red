@@ -26,6 +26,10 @@
 素材在`resources/Red`文档目录下
 
 - 语音素材来源明日方舟wiki
-- 模型素材经wiki下载后二次创作
+- 模型素材来源于明日方舟wiki
+
+> 模型下载的背景需选用和原图案色差大的色号(试过了，webm格式直接转gif模式透明背景会变黑的)
+> Webm转Gif格式：https://www.gif.cn/
+> 转完之后采用PS一帧一帧将背景颜色删除即可
 
 明日方舟wiki网址：https://prts.wiki/w/%E9%A6%96%E9%A1%B5
